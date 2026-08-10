@@ -6,6 +6,8 @@
   />
 </p>
 
+<div align="center">
+  
 # Lakshit Gola
 
 ### Analytics at the intersection of markets, products, growth and AI
