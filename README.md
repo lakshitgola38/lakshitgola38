@@ -1,4 +1,10 @@
-<div align="center">
+<p align="center">
+  <img
+    src="./assets/banner.png"
+    width="100%"
+    alt="Analytics banner"
+  />
+</p>
 
 # Lakshit Gola
 
